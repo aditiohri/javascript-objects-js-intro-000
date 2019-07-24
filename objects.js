@@ -5,5 +5,6 @@ velvet underground: "pale blue eyes"
 };
 
 function updatePlaylist(object, key, value) {
-
+object[key]: value;
+return object
 }
