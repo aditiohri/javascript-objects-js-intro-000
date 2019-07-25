@@ -1,7 +1,5 @@
 var playlist = {
-"chris isaac": 'wicked game',
-"tierra whack": 'only child',
-"velvet underground": 'pale blue eyes'
+"artistName": 'songTitle'
 };
 
 function updatePlaylist(object, key, value) {
