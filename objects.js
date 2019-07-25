@@ -1,5 +1,4 @@
 var playlist = {
-"artistName": 'songTitle',
 "Mariah Carey": 'honey'
 }
 
