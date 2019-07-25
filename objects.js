@@ -1,5 +1,6 @@
 var playlist = {
-"Mariah Carey": 'honey'
+"Mariah Carey": 'Honey',
+"Slowdive": 'Alison'
 }
 
 function updatePlaylist(object, key, value) {
